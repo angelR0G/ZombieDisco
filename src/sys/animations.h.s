@@ -1,0 +1,3 @@
+.globl sys_animations_update
+.globl sys_animations_update_one_entity
+.globl sys_animations_update_one_entity_type
